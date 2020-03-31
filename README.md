@@ -19,14 +19,8 @@
 
 ### [Click here for JestJS](https://jestjs.io/)
 
-### UI DARK MODE
-![Dark Mode](https://github.com/JoshuaZapcom/ToDoList/blob/master/darkMode.PNG "Dark Mode")
+### UI DARK AND LIGHT MODE
+<img src="https://github.com/JoshuaZapcom/ToDoList/blob/master/darkMode.PNG" width="300"> <img src="https://github.com/JoshuaZapcom/ToDoList/blob/master/lightMode.PNG" width="300">
 
-### UI LIGHT MODE
-![Light Mode](https://github.com/JoshuaZapcom/ToDoList/blob/master/lightMode.PNG "Light Mode")
-
-### UI MODAL
-![Modal](https://github.com/JoshuaZapcom/ToDoList/blob/master/Modal.PNG "Modal")
-
-### UI MENU
-![Menu](https://github.com/JoshuaZapcom/ToDoList/blob/master/menu.PNG "Menu")
+### UI MODAL AND MENU
+<img src="https://github.com/JoshuaZapcom/ToDoList/blob/master/Modal.PNG" width="300"> <img src="https://github.com/JoshuaZapcom/ToDoList/blob/master/menu.PNG" width="300">
