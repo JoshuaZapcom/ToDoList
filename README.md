@@ -20,13 +20,13 @@
 ### [Click here for JestJS](https://jestjs.io/)
 
 ### UI DARK MODE
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Dark Mode](https://github.com/JoshuaZapcom/ToDoList/blob/master/darkMode.PNG "Dark Mode")
 
 ### UI LIGHT MODE
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Light Mode](https://github.com/JoshuaZapcom/ToDoList/blob/master/lightMode.PNG "Light Mode")
 
 ### UI MODAL
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Modal](https://github.com/JoshuaZapcom/ToDoList/blob/master/Modal.PNG "Modal")
 
 ### UI MENU
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Menu](https://github.com/JoshuaZapcom/ToDoList/blob/master/menu.PNG "Menu")
